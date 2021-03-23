@@ -4,7 +4,7 @@ nav {
     font-size: 100%;
     width: 100%;
     overflow: hidden;
-    background-color: #F0F8FE;
+    background-color: #d2e7f8;
  }
  nav ul{
     list-style: none;
@@ -20,9 +20,9 @@ nav {
 }
 
 #content{
-    margin: 50px 50px;
-    background: #F0F8FE;
-    border: 2px solid #BFC2C4 ;
+    margin: 80px 80px;
+    background: #d2e7f8;
+    border: 2px solid #d2e7f8 ;
     padding: 10px;
     -webkit-box-shadow: 0 0 10px #ccc;
         box-shadow: 0 0 10px #ccc;
